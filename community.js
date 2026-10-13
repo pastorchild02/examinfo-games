@@ -139,6 +139,9 @@ module.exports = function (ctx) {
     const p = { id: rid(3), key: rid(8), name: clean(name, 20) || 'Player', team, done: false }; r.players.push(p); return p;
   };
 
+  const board = { wk: '', rows: {} };
+  const weekKey = () => { const d = new Date(), k = (d.getUTCDay() + 6) % 7; d.setUTCDate(d.getUTCDate() - k); return d.toISOString().slice(0, 10); };
+
   return async function handle(req, res, u, p) {
     if (!p.startsWith('/api/comments') && !p.startsWith('/api/quiz') && !p.startsWith('/api/arena') && p !== '/api/og') return false;
     if (req.method === 'OPTIONS') { res.writeHead(204, CORS); res.end(); return true; }
@@ -173,6 +176,20 @@ module.exports = function (ctx) {
       if (limited(ip, 'og', 90, 60000)) return J(res, 429, { error: 'Slow down.' }), true;
       const u = okUrl(q.get('u')); if (!u) return J(res, 400, { img: '' }), true;
       return J(res, 200, { img: await ogImage(u) }), true;
+    }
+    // ----- weekly study leaderboard (kept in memory; clears on restart and every new week) -----
+    if (p === '/api/arena/board-submit' && req.method === 'POST') {
+      if (limited(ip, 'bs', 30, 60000)) return J(res, 429, { error: 'Slow down.' }), true;
+      const d = await post(); const id = String(d.id || '').replace(/[^a-z0-9]/gi, '').slice(0, 24), name = clean(d.name, 20);
+      if (id.length < 6 || name.length < 2) return J(res, 400, { error: 'Enter a name of at least 2 letters.' }), true;
+      const wk = weekKey(); if (board.wk !== wk) { board.wk = wk; board.rows = {}; }
+      board.rows[id] = { name, pts: clampI(d.pts, 0, 200, 0), streak: clampI(d.streak, 0, 400, 0) };
+      return J(res, 200, { ok: true }), true;
+    }
+    if (p === '/api/arena/board-top' && req.method === 'GET') {
+      const wk = weekKey(); if (board.wk !== wk) { board.wk = wk; board.rows = {}; }
+      const top = Object.keys(board.rows).map((k) => ({ id: k, name: board.rows[k].name, pts: board.rows[k].pts, streak: board.rows[k].streak })).sort((a, b) => b.pts - a.pts || b.streak - a.streak).slice(0, 20);
+      return J(res, 200, { week: wk, top }), true;
     }
     // ----- live team game -----
     if (p === '/api/arena/create' && req.method === 'POST') {
