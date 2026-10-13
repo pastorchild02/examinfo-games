@@ -1,0 +1,1314 @@
+[
+{
+"id": "q0",
+"subject": "English",
+"q": "Choose the word closest in meaning to 'benevolent'.",
+"o": [
+"Kind",
+"Cruel",
+"Lazy",
+"Proud"
+],
+"a": 0
+},
+{
+"id": "q1",
+"subject": "English",
+"q": "Choose the opposite of 'scarce'.",
+"o": [
+"Rare",
+"Abundant",
+"Small",
+"Costly"
+],
+"a": 1
+},
+{
+"id": "q2",
+"subject": "English",
+"q": "Neither of the boys ___ present.",
+"o": [
+"were",
+"are",
+"was",
+"have been"
+],
+"a": 2
+},
+{
+"id": "q3",
+"subject": "English",
+"q": "'The wind whispered through the trees' is an example of:",
+"o": [
+"Simile",
+"Hyperbole",
+"Personification",
+"Irony"
+],
+"a": 2
+},
+{
+"id": "q4",
+"subject": "English",
+"q": "The plural of 'criterion' is:",
+"o": [
+"criterions",
+"criteria",
+"criterias",
+"criterium"
+],
+"a": 1
+},
+{
+"id": "q5",
+"subject": "Mathematics",
+"q": "Solve for x: 3x + 5 = 20.",
+"o": [
+"3",
+"4",
+"5",
+"15"
+],
+"a": 2
+},
+{
+"id": "q6",
+"subject": "Mathematics",
+"q": "Simplify 2^3 x 2^2.",
+"o": [
+"16",
+"32",
+"10",
+"64"
+],
+"a": 1
+},
+{
+"id": "q7",
+"subject": "Mathematics",
+"q": "Area of a circle of radius 7 cm (take pi = 22/7).",
+"o": [
+"44 cm2",
+"154 cm2",
+"49 cm2",
+"22 cm2"
+],
+"a": 1
+},
+{
+"id": "q8",
+"subject": "Mathematics",
+"q": "What is 15% of 200?",
+"o": [
+"15",
+"20",
+"30",
+"45"
+],
+"a": 2
+},
+{
+"id": "q9",
+"subject": "Mathematics",
+"q": "The angles of a triangle add up to:",
+"o": [
+"90 degrees",
+"180 degrees",
+"270 degrees",
+"360 degrees"
+],
+"a": 1
+},
+{
+"id": "q10",
+"subject": "Biology",
+"q": "The powerhouse of the cell is the:",
+"o": [
+"Nucleus",
+"Ribosome",
+"Mitochondrion",
+"Vacuole"
+],
+"a": 2
+},
+{
+"id": "q11",
+"subject": "Biology",
+"q": "The process by which green plants make food is:",
+"o": [
+"Respiration",
+"Digestion",
+"Photosynthesis",
+"Excretion"
+],
+"a": 2
+},
+{
+"id": "q12",
+"subject": "Biology",
+"q": "Which blood group is the universal donor?",
+"o": [
+"A",
+"B",
+"AB",
+"O"
+],
+"a": 3
+},
+{
+"id": "q13",
+"subject": "Biology",
+"q": "Which organ filters blood to make urine?",
+"o": [
+"Liver",
+"Kidney",
+"Lung",
+"Heart"
+],
+"a": 1
+},
+{
+"id": "q14",
+"subject": "Biology",
+"q": "Which vitamin does the skin make with the help of sunlight?",
+"o": [
+"Vitamin A",
+"Vitamin C",
+"Vitamin D",
+"Vitamin K"
+],
+"a": 2
+},
+{
+"id": "q15",
+"subject": "Chemistry",
+"q": "The chemical symbol for sodium is:",
+"o": [
+"So",
+"Sd",
+"Na",
+"S"
+],
+"a": 2
+},
+{
+"id": "q16",
+"subject": "Chemistry",
+"q": "The pH of pure water at 25 degrees C is about:",
+"o": [
+"1",
+"7",
+"10",
+"14"
+],
+"a": 1
+},
+{
+"id": "q17",
+"subject": "Chemistry",
+"q": "Which of these is a noble gas?",
+"o": [
+"Oxygen",
+"Neon",
+"Nitrogen",
+"Chlorine"
+],
+"a": 1
+},
+{
+"id": "q18",
+"subject": "Chemistry",
+"q": "The atomic number of carbon is:",
+"o": [
+"4",
+"6",
+"8",
+"12"
+],
+"a": 1
+},
+{
+"id": "q19",
+"subject": "Chemistry",
+"q": "Sodium chloride (NaCl) is an example of:",
+"o": [
+"An ionic compound",
+"A metal",
+"A noble gas",
+"An organic acid"
+],
+"a": 0
+},
+{
+"id": "q20",
+"subject": "Physics",
+"q": "The SI unit of force is the:",
+"o": [
+"Joule",
+"Watt",
+"Newton",
+"Pascal"
+],
+"a": 2
+},
+{
+"id": "q21",
+"subject": "Physics",
+"q": "Speed is distance divided by:",
+"o": [
+"Mass",
+"Time",
+"Force",
+"Area"
+],
+"a": 1
+},
+{
+"id": "q22",
+"subject": "Physics",
+"q": "A body stays at rest unless a force acts on it. This is Newton's:",
+"o": [
+"First law",
+"Second law",
+"Third law",
+"Law of gravitation"
+],
+"a": 0
+},
+{
+"id": "q23",
+"subject": "Physics",
+"q": "The SI unit of electric current is the:",
+"o": [
+"Volt",
+"Ohm",
+"Ampere",
+"Coulomb"
+],
+"a": 2
+},
+{
+"id": "q24",
+"subject": "Physics",
+"q": "Light travels fastest in:",
+"o": [
+"Water",
+"Glass",
+"Air",
+"A vacuum"
+],
+"a": 3
+},
+{
+"id": "q25",
+"subject": "Government",
+"q": "Nigeria became a republic in:",
+"o": [
+"1960",
+"1963",
+"1966",
+"1979"
+],
+"a": 1
+},
+{
+"id": "q26",
+"subject": "Government",
+"q": "The three arms of government are the executive, the legislature and the:",
+"o": [
+"Police",
+"Judiciary",
+"Civil service",
+"Army"
+],
+"a": 1
+},
+{
+"id": "q27",
+"subject": "Government",
+"q": "The head of the executive in a presidential system is the:",
+"o": [
+"Speaker",
+"Chief Justice",
+"President",
+"Governor-General"
+],
+"a": 2
+},
+{
+"id": "q28",
+"subject": "Government",
+"q": "Which body conducts elections in Nigeria?",
+"o": [
+"INEC",
+"JAMB",
+"NECO",
+"NUC"
+],
+"a": 0
+},
+{
+"id": "q29",
+"subject": "Government",
+"q": "Rule by one person with absolute power is called:",
+"o": [
+"Democracy",
+"Federalism",
+"Dictatorship",
+"Republic"
+],
+"a": 2
+},
+{
+"id": "f0",
+"subject": "Physics",
+"q": "A ball is thrown at 20 m/s at 30 degrees above the ground (see diagram, g = 10 m/s²). How long does it take to reach its highest point?",
+"o": [
+"0.5 s",
+"1.0 s",
+"1.5 s",
+"2.0 s"
+],
+"a": 1,
+"f": "proj:20,30",
+"year": 2023
+},
+{
+"id": "f1",
+"subject": "Physics",
+"q": "For the same throw in the diagram (20 m/s at 30 degrees, g = 10 m/s²), the maximum height reached is:",
+"o": [
+"2.5 m",
+"5 m",
+"10 m",
+"20 m"
+],
+"a": 1,
+"f": "proj:20,30",
+"year": 2024
+},
+{
+"id": "f2",
+"subject": "Physics",
+"q": "The wave in the diagram has wavelength 4 m and frequency 25 Hz. Its speed is:",
+"o": [
+"6.25 m/s",
+"29 m/s",
+"100 m/s",
+"200 m/s"
+],
+"a": 2,
+"f": "wave:4,0.5",
+"year": 2022
+},
+{
+"id": "f3",
+"subject": "Physics",
+"q": "A 10 kg block slides down a smooth slope inclined at 30 degrees (see diagram, g = 10 m/s²). Its acceleration down the slope is:",
+"o": [
+"2.5 m/s²",
+"5 m/s²",
+"8.7 m/s²",
+"10 m/s²"
+],
+"a": 1,
+"f": "incl:30",
+"year": 2023
+},
+{
+"id": "f4",
+"subject": "Physics",
+"q": "In the circuit shown, a 20 V battery is connected to a 4 Ω and a 6 Ω resistor in series. The current is:",
+"o": [
+"0.5 A",
+"1 A",
+"2 A",
+"5 A"
+],
+"a": 2,
+"f": "circuit:20,4,6",
+"year": 2021
+},
+{
+"id": "f5",
+"subject": "Mathematics",
+"q": "Use the diagram to find the length of the hypotenuse x.",
+"o": [
+"10 cm",
+"12 cm",
+"14 cm",
+"48 cm"
+],
+"a": 0,
+"f": "tri:6,8",
+"year": 2020
+},
+{
+"id": "f6",
+"subject": "Mathematics",
+"q": "The diagram shows a sector of a circle of radius 14 cm with angle 90 degrees. Find its area (take π = 22/7).",
+"o": [
+"44 cm²",
+"77 cm²",
+"154 cm²",
+"308 cm²"
+],
+"a": 2,
+"f": "circ:14,90",
+"year": 2022
+},
+{
+"id": "f7",
+"subject": "Mathematics",
+"q": "The bar chart shows marks scored in four tests. The mean mark is:",
+"o": [
+"25",
+"30",
+"35",
+"40"
+],
+"a": 1,
+"f": "bar:A=40,B=25,C=35,D=20",
+"year": 2019
+},
+{
+"id": "f8",
+"subject": "Mathematics",
+"q": "In the Venn diagram, 30 students were asked. How many offer neither Mathematics nor Physics?",
+"o": [
+"3",
+"5",
+"7",
+"9"
+],
+"a": 1,
+"f": "venn:12,5,8",
+"year": 2021
+},
+{
+"id": "f9",
+"subject": "Mathematics",
+"q": "The line in the graph passes through A(0, 1) and B(2, 5). Its gradient is:",
+"o": [
+"1",
+"2",
+"3",
+"4"
+],
+"a": 1,
+"f": "line:2,1",
+"year": 2018
+},
+{
+"id": "f10",
+"subject": "Biology",
+"q": "In the cell diagram, which letter labels the part that controls the activities of the cell?",
+"o": [
+"P",
+"Q",
+"R",
+"S"
+],
+"a": 0,
+"f": "cell",
+"year": 2019
+},
+{
+"id": "f11",
+"subject": "Biology",
+"q": "In the same cell diagram, which letter labels the site of aerobic respiration (the mitochondrion)?",
+"o": [
+"P",
+"Q",
+"R",
+"S"
+],
+"a": 1,
+"f": "cell",
+"year": 2020
+},
+{
+"id": "f12",
+"subject": "Biology",
+"q": "In the flower diagram, which letter labels the part that receives pollen?",
+"o": [
+"A",
+"B",
+"C",
+"D"
+],
+"a": 1,
+"f": "flower",
+"year": 2021
+},
+{
+"id": "f13",
+"subject": "Biology",
+"q": "In the flower diagram, which letter labels the part that develops into the fruit after fertilisation?",
+"o": [
+"A",
+"B",
+"C",
+"D"
+],
+"a": 3,
+"f": "flower",
+"year": 2022
+},
+{
+"id": "f14",
+"subject": "Biology",
+"q": "In the diagram of the larynx seen from above, sound is made when air passes over the part labelled:",
+"o": [
+"A",
+"B",
+"C",
+"D"
+],
+"a": 1,
+"f": "vocal",
+"year": 2020
+},
+{
+"id": "f15",
+"subject": "Chemistry",
+"q": "A burette reading changes as shown in the diagram. The volume of acid used is:",
+"o": [
+"23.80 cm³",
+"24.30 cm³",
+"24.80 cm³",
+"25.30 cm³"
+],
+"a": 0,
+"f": "burette:0.50,24.30",
+"year": 2019
+},
+{
+"id": "f16",
+"subject": "Chemistry",
+"q": "Copper(II) sulphate solution is electrolysed with inert electrodes (see diagram). The product at the cathode is:",
+"o": [
+"hydrogen",
+"copper",
+"oxygen",
+"sulphur"
+],
+"a": 1,
+"f": "electro",
+"year": 2021
+},
+{
+"id": "f17",
+"subject": "English",
+"q": "Read the notice in the diagram. When can a student borrow books on a Friday?",
+"o": [
+"before 9 a.m.",
+"between 9 a.m. and 4 p.m.",
+"after 4 p.m.",
+"at any time"
+],
+"a": 1,
+"f": "notice",
+"year": 2018
+},
+{
+"id": "s0",
+"subject": "English",
+"topic": "Vocabulary",
+"q": "Choose the word closest in meaning to \"ephemeral\".",
+"o": [
+"lasting",
+"brief",
+"heavy",
+"bright"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s1",
+"subject": "English",
+"topic": "Vocabulary",
+"q": "Choose the word opposite in meaning to \"frugal\".",
+"o": [
+"wasteful",
+"careful",
+"poor",
+"quiet"
+],
+"a": 0,
+"year": 2026
+},
+{
+"id": "s2",
+"subject": "English",
+"topic": "Grammar",
+"q": "She has been waiting ___ eight o'clock.",
+"o": [
+"for",
+"since",
+"from",
+"at"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s3",
+"subject": "English",
+"topic": "Concord",
+"q": "Each of the students ___ a prize.",
+"o": [
+"have received",
+"has received",
+"were receiving",
+"are receiving"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s4",
+"subject": "English",
+"topic": "Figures of speech",
+"q": "\"The classroom was a zoo.\" is an example of a:",
+"o": [
+"simile",
+"metaphor",
+"irony",
+"pun"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s5",
+"subject": "English",
+"topic": "Orthography",
+"q": "Choose the correct spelling.",
+"o": [
+"accomodation",
+"accommodation",
+"acommodation",
+"accomodasion"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s6",
+"subject": "English",
+"topic": "Oral English",
+"q": "Which word has the same vowel sound as \"seat\"?",
+"o": [
+"sit",
+"set",
+"meet",
+"sat"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s7",
+"subject": "English",
+"topic": "Oral English",
+"q": "Which word is stressed on the second syllable?",
+"o": [
+"table",
+"begin",
+"window",
+"answer"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s8",
+"subject": "English",
+"topic": "Idioms",
+"q": "\"To bury the hatchet\" means:",
+"o": [
+"to start a fight",
+"to make peace",
+"to hide a weapon",
+"to dig a hole"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s9",
+"subject": "English",
+"topic": "Grammar",
+"q": "Choose the correct question tag: \"You are tired, ___?\"",
+"o": [
+"are you",
+"aren't you",
+"don't you",
+"isn't it"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s10",
+"subject": "Mathematics",
+"topic": "Number and numeration",
+"q": "Simplify 2/3 + 1/6.",
+"o": [
+"5/6",
+"3/9",
+"1/2",
+"1"
+],
+"a": 0,
+"year": 2026
+},
+{
+"id": "s11",
+"subject": "Mathematics",
+"topic": "Number and numeration",
+"q": "Express 0.0045 in standard form.",
+"o": [
+"4.5 × 10⁻³",
+"4.5 × 10⁻²",
+"45 × 10⁻⁴",
+"0.45 × 10⁻²"
+],
+"a": 0,
+"year": 2026
+},
+{
+"id": "s12",
+"subject": "Mathematics",
+"topic": "Algebra",
+"q": "If 3x − 7 = 11, then x =",
+"o": [
+"4",
+"5",
+"6",
+"18"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s13",
+"subject": "Mathematics",
+"topic": "Algebra",
+"q": "Factorise x² − 9.",
+"o": [
+"(x − 3)(x − 3)",
+"(x + 3)(x − 3)",
+"(x − 9)(x + 1)",
+"x(x − 9)"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s14",
+"subject": "Mathematics",
+"topic": "Sequences",
+"q": "Find the sum of the first 4 terms of the AP 2, 5, 8, ...",
+"o": [
+"22",
+"24",
+"26",
+"28"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s15",
+"subject": "Mathematics",
+"topic": "Trigonometry",
+"q": "Find the value of sin 30° + cos 60°.",
+"o": [
+"0.5",
+"1",
+"1.5",
+"2"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s16",
+"subject": "Mathematics",
+"topic": "Calculus",
+"q": "Differentiate y = 3x² with respect to x.",
+"o": [
+"3x",
+"6x",
+"6x²",
+"9x"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s17",
+"subject": "Mathematics",
+"topic": "Statistics",
+"q": "The median of 3, 7, 5, 9, 4 is",
+"o": [
+"4",
+"5",
+"6",
+"7"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s18",
+"subject": "Mathematics",
+"topic": "Probability",
+"q": "What is the probability of getting a head when a fair coin is tossed once?",
+"o": [
+"1/4",
+"1/3",
+"1/2",
+"1"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s19",
+"subject": "Mathematics",
+"topic": "Mensuration",
+"q": "The volume of a cuboid 4 cm by 5 cm by 3 cm is",
+"o": [
+"12 cm³",
+"47 cm³",
+"60 cm³",
+"120 cm³"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s20",
+"subject": "Physics",
+"topic": "Mechanics",
+"q": "Which of these is a scalar quantity?",
+"o": [
+"displacement",
+"velocity",
+"speed",
+"force"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s21",
+"subject": "Physics",
+"topic": "Mechanics",
+"q": "A car accelerates uniformly from rest to 20 m/s in 5 s. Its acceleration is",
+"o": [
+"2 m/s²",
+"4 m/s²",
+"5 m/s²",
+"100 m/s²"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s22",
+"subject": "Physics",
+"topic": "Pressure",
+"q": "The SI unit of pressure is the",
+"o": [
+"newton",
+"pascal",
+"joule",
+"watt"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s23",
+"subject": "Physics",
+"topic": "Heat",
+"q": "Heat reaches us from the Sun through space by",
+"o": [
+"conduction",
+"convection",
+"radiation",
+"evaporation"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s24",
+"subject": "Physics",
+"topic": "Light",
+"q": "A concave mirror forms a real, inverted image when the object is placed",
+"o": [
+"at the pole",
+"between the pole and the focus",
+"beyond the centre of curvature",
+"at the focus"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s25",
+"subject": "Physics",
+"topic": "Waves",
+"q": "A wave has frequency 50 Hz. Its period is",
+"o": [
+"0.02 s",
+"0.2 s",
+"2 s",
+"50 s"
+],
+"a": 0,
+"year": 2026
+},
+{
+"id": "s26",
+"subject": "Physics",
+"topic": "Electricity",
+"q": "A 60 W bulb works for 5 hours. The energy used is",
+"o": [
+"0.3 kWh",
+"3 kWh",
+"12 kWh",
+"300 kWh"
+],
+"a": 0,
+"year": 2026
+},
+{
+"id": "s27",
+"subject": "Physics",
+"topic": "Modern physics",
+"q": "The particle emitted in beta decay is an",
+"o": [
+"alpha particle",
+"electron",
+"neutron",
+"proton"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s28",
+"subject": "Physics",
+"topic": "Light",
+"q": "Total internal reflection can occur when light travels from",
+"o": [
+"air to glass",
+"glass to air at an angle greater than the critical angle",
+"water to glass at normal incidence",
+"air to water"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s29",
+"subject": "Physics",
+"topic": "Pressure",
+"q": "Which instrument measures atmospheric pressure?",
+"o": [
+"thermometer",
+"barometer",
+"hydrometer",
+"ammeter"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s30",
+"subject": "Chemistry",
+"topic": "Separation of mixtures",
+"q": "Separating a liquid from a solution by boiling and then condensing the vapour is called",
+"o": [
+"filtration",
+"distillation",
+"sublimation",
+"decantation"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s31",
+"subject": "Chemistry",
+"topic": "Matter",
+"q": "Which of these is an element?",
+"o": [
+"water",
+"brass",
+"oxygen",
+"air"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s32",
+"subject": "Chemistry",
+"topic": "Atomic structure",
+"q": "The number of protons in a sodium atom (atomic number 11) is",
+"o": [
+"10",
+"11",
+"12",
+"23"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s33",
+"subject": "Chemistry",
+"topic": "Acids, bases and salts",
+"q": "A solution of pH 3 is",
+"o": [
+"strongly basic",
+"neutral",
+"acidic",
+"slightly basic"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s34",
+"subject": "Chemistry",
+"topic": "Acids, bases and salts",
+"q": "Which gas is produced when dilute hydrochloric acid reacts with zinc?",
+"o": [
+"oxygen",
+"hydrogen",
+"chlorine",
+"carbon dioxide"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s35",
+"subject": "Chemistry",
+"topic": "Metals",
+"q": "Which of these is a property of metals?",
+"o": [
+"poor conductor of heat",
+"brittle",
+"malleable",
+"always liquid"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s36",
+"subject": "Chemistry",
+"topic": "Organic chemistry",
+"q": "The functional group of alkanols is",
+"o": [
+"−COOH",
+"−OH",
+"−CHO",
+"−NH₂"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s37",
+"subject": "Chemistry",
+"topic": "Stoichiometry",
+"q": "In 2H₂ + O₂ → 2H₂O, how many moles of water form from 4 moles of hydrogen?",
+"o": [
+"2",
+"4",
+"6",
+"8"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s38",
+"subject": "Chemistry",
+"topic": "Air",
+"q": "The most abundant gas in air is",
+"o": [
+"oxygen",
+"nitrogen",
+"carbon dioxide",
+"argon"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s39",
+"subject": "Chemistry",
+"topic": "Corrosion",
+"q": "Rusting of iron needs",
+"o": [
+"oxygen only",
+"water only",
+"oxygen and water",
+"nitrogen and water"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s40",
+"subject": "Biology",
+"topic": "Cell biology",
+"q": "The organelle where protein synthesis takes place is the",
+"o": [
+"ribosome",
+"lysosome",
+"Golgi body",
+"vacuole"
+],
+"a": 0,
+"year": 2026
+},
+{
+"id": "s41",
+"subject": "Biology",
+"topic": "Reproduction",
+"q": "The male reproductive part of a flower is the",
+"o": [
+"carpel",
+"stamen",
+"sepal",
+"petal"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s42",
+"subject": "Biology",
+"topic": "Nutrition",
+"q": "Which organ produces bile?",
+"o": [
+"pancreas",
+"liver",
+"kidney",
+"stomach"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s43",
+"subject": "Biology",
+"topic": "Plant physiology",
+"q": "Most transpiration in plants takes place through the",
+"o": [
+"roots",
+"stomata",
+"flowers",
+"bark"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s44",
+"subject": "Biology",
+"topic": "Genetics",
+"q": "The genotype of a pure-breeding tall plant is",
+"o": [
+"Tt",
+"tt",
+"TT",
+"Tt or tt"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s45",
+"subject": "Biology",
+"topic": "Diseases",
+"q": "Which of these spreads malaria?",
+"o": [
+"housefly",
+"female Anopheles mosquito",
+"tsetse fly",
+"cockroach"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s46",
+"subject": "Biology",
+"topic": "Nutrition",
+"q": "An organism that feeds on dead organic matter is a",
+"o": [
+"parasite",
+"saprophyte",
+"producer",
+"predator"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s47",
+"subject": "Biology",
+"topic": "Nervous system",
+"q": "The part of the brain that controls balance and coordination is the",
+"o": [
+"cerebrum",
+"cerebellum",
+"medulla oblongata",
+"hypothalamus"
+],
+"a": 1,
+"year": 2026
+},
+{
+"id": "s48",
+"subject": "Biology",
+"topic": "Ecology",
+"q": "All the living things in an area together with their environment make up an",
+"o": [
+"population",
+"community",
+"ecosystem",
+"habitat"
+],
+"a": 2,
+"year": 2026
+},
+{
+"id": "s49",
+"subject": "Biology",
+"topic": "Nutrition",
+"q": "Deficiency of which vitamin causes night blindness?",
+"o": [
+"C",
+"D",
+"A",
+"K"
+],
+"a": 2,
+"year": 2026
+}
+]
